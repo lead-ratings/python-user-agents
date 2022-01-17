@@ -1,6 +1,6 @@
 from collections import namedtuple
 
-from ua_parser import user_agent_parser
+from old_ua_parser import user_agent_parser
 from .compat import string_types
 
 
